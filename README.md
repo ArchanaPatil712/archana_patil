@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
 </div>
-<h3 align="left"> Archana Patil, Currently pursuing TE degree in Artificial Intelligence & Data Science from MMIT .</h3>
+<h3 align="left"> Currently pursuing TE degree in Artificial Intelligence & Data Science from MMIT .</h3>
 <br/>
 
 
